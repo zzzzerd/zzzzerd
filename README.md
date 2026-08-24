@@ -1,4 +1,4 @@
-# hey, i'm shanrou 👋
+# hey, i'm zzzznerd 👋
 
 computer science student @ central south university  
 🤔 currently:
