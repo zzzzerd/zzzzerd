@@ -1,4 +1,8 @@
-## Hi there 👋
+# hey, i'm shanrou 👋
+
+computer science student @ central south university  
+🤔 currently:
+> turning random ideas into things that actually run.
 
 <!--
 **zzzzerd/zzzzerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
